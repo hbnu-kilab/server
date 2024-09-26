@@ -1,3 +1,3 @@
-# server
+# Server
 
 Docker & Fast API
